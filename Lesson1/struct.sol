@@ -17,5 +17,7 @@ contract SimpleStorage{
     
     function addPerson(string memory _name, uint256 _favorateNumber) public{
         people.push(People({favorateNumber: _favorateNumber, name:_name}));
+                // people.push(People(_favorateNumber,_name));
+                // it's also vaild formate.
     }
 }
