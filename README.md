@@ -1,5 +1,4 @@
 # Solidity, Blockchain, and Smart Contract Course with Python Tutorial
-## Day 1
 ### I learnt about:
 
 * MetaMask Added
@@ -10,3 +9,9 @@
 * [Etherscan](https://etherscan.io/)
 * TestNet : TestNets are free and for testing smart contract.
 * MainNet : MainNet cost money and are considered as live.
+
+## Lesson 1 :
+
+* Variables
+* Functions
+* Struct
