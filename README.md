@@ -14,4 +14,4 @@
 
 * Variables
 * Functions
-* Struct
+* (Struct)[https://docs.soliditylang.org/en/v0.8.17/contracts.html#functions]
